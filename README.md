@@ -16,7 +16,7 @@ A cozy, animated glazed dark theme for BetterDiscord, featuring rose-plum accent
 ---
 
 ## Preview
-![Glazify Theme Preview](https://imgur.com/a/kmgAOck.png) 
+![Glazify Theme Preview](https://imgur.com/a/kmgAOck)
 
 
 ---
