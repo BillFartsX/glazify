@@ -36,8 +36,8 @@ A cozy, animated glazed dark theme for BetterDiscord, featuring rose-plum accent
 
 **starz_**
 
-- Ko-fi: [https://ko-fi.com/yourname](https://ko-fi.com/billyx)  
-- Source Code: [github.com/yourname/glazify](https://github.com/BillFartsX/glazify)
+- Ko-fi: [https://ko-fi.com/billyx](https://ko-fi.com/billyx)  
+- Source Code: [https://github.com/BillFartsX/glazify](https://github.com/BillFartsX/glazify)
 
 ---
 
