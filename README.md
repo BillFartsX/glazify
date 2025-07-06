@@ -17,7 +17,7 @@ A cozy, animated glazed dark theme for BetterDiscord, featuring rose-plum accent
 
 ## Preview
 
-![Glazify Theme Preview]([https://github.com/yourname/glazify/raw/main/preview.png](https://discord-preview.vercel.app/?file=glazify.theme.css))  
+![Glazify Theme Preview]([https://discord-preview.vercel.app/?file=glazify.theme.css](https://discord-preview.vercel.app/?file=glazify.theme.css)  
 
 ---
 
