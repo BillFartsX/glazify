@@ -17,14 +17,13 @@ A cozy, animated glazed dark theme for BetterDiscord, featuring rose-plum accent
 
 ## Preview
 
-![Glazify Theme Preview](https://github.com/yourname/glazify/raw/main/preview.png)  
-*(Replace with your own preview image URL)*
+![Glazify Theme Preview]([https://github.com/yourname/glazify/raw/main/preview.png](https://discord-preview.vercel.app/?file=glazify.theme.css))  
 
 ---
 
 ## Installation
 
-1. Download or clone this repository.
+1. Download `Glazify.theme.css`.
 2. Open BetterDiscord.
 3. Go to **Settings > Themes**.
 4. Click **Open Theme Folder**.
@@ -37,15 +36,14 @@ A cozy, animated glazed dark theme for BetterDiscord, featuring rose-plum accent
 
 **starz_**
 
-- Ko-fi: [https://ko-fi.com/yourname](https://ko-fi.com/yourname)  
-- Discord Invite: [ZYQWwKcYxT](https://discord.gg/ZYQWwKcYxT)  
-- Source Code: [github.com/yourname/glazify](https://github.com/yourname/glazify)
+- Ko-fi: [https://ko-fi.com/yourname](https://ko-fi.com/billyx)  
+- Source Code: [github.com/yourname/glazify](https://github.com/BillFartsX/glazify)
 
 ---
 
 ## License
 
-This theme is open-source and free to use and modify.  
+THIS THEME IS NOT OPEN TO RE-CREATE OR COPY!!
 Feel free to support me if you like this theme!
 
 ---
@@ -53,8 +51,7 @@ Feel free to support me if you like this theme!
 ## Credits
 
 - [Google Fonts - Quicksand](https://fonts.google.com/specimen/Quicksand)  
-- Inspired by Material You design principles  
-- Thanks to the BetterDiscord community for support
+- Inspired by other creators and theme creators
 
 ---
 
