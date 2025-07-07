@@ -85,20 +85,6 @@ button:hover,
   transform: scale(1.02);
 }
 
-/* --- GLASSY CONTAINERS --- */
-.chatContent-3KubbW,
-.content-1SgpWY,
-.container-2cd8Mz,
-.sidebar-1tnWFu,
-.userPopout-2j1gM4,
-.panels-3wFtMD {
-  background-color: rgba(30, 20, 30, 0.75);
-  border-radius: var(--card-radius-big);
-  backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.03);
-  transition: box-shadow 0.25s ease, transform 0.2s ease;
-}
-
 /* --- USER SETTINGS PANEL --- */
 .settings-3hLq3b, /* example class for user settings container */
 .settingsInner-3d1iR- {
