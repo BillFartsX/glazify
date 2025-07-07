@@ -1,0 +1,8 @@
+{
+    "name": "Glazify", 
+    "description": "A cozy, animated glazed dark theme with rose-plum accents, blur effects.",
+    "version": "1.0.0", 
+    "author": "starz_", 
+    "theme": "glazify.theme.css", 
+    "license": "MIT"
+}
